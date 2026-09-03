@@ -1,4 +1,3 @@
-# Ellerbe LLC SCADA SMS Notifications
+# Morgan Ellerbe
 
-Public Terms & Conditions and Privacy Policy for the Ellerbe LLC SCADA Alarm
-Notification Service.
+Public Terms & Conditions and Privacy Policy for Morgan Ellerbe
